@@ -1,0 +1,21 @@
+{
+  "name": "gentwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arditez/gentwo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arditez/gentwo/issues"
+  },
+  "homepage": "https://github.com/arditez/gentwo#readme",
+  "devDependencies": {
+    "@playwright/test": "1.26.0"
+  }
+}
